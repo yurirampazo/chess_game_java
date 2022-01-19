@@ -12,8 +12,6 @@ Q
 !src/boardgame/BoardException.java,c\d\cd20c15b434e2bd9d33b559985a9b393401fdb2d
 J
 src/chess/pieces/Rook.java,f\f\ff69bb3f200ec2b38c7858168986f747562072f9
-I
-src/chess/ChessPiece.java,7\1\71903bb1710ecb2497d05dbcfd95a7ebafcda239
 M
 src/chess/ChessException.java,2\1\21d85c75bbb5dc0c23b50ef6b7f244499ea59f9e
 L
